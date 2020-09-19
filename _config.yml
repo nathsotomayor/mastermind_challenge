@@ -7,20 +7,24 @@ description: > # this means to ignore newlines until "baseurl:"
   
 # social links
 authors:
-  name: David Orejuela
-  twitter_username: DavidOrejuela14
-  github_username: daorejuela1
+  david:
+    name: David Orejuela
+    twitter_username: DavidOrejuela14
+    github_username: daorejuela1
 
-  name: Emma Navarro
-  twitter_username: Ayy_Emma
-  github_username: emmanavarro
+  emma:
+    name: Emma Navarro
+    twitter_username: Ayy_Emma
+    github_username: emmanavarro
 
-  name: Santiago Peña
-  twitter_username: Santiag11470161
-  github_username: santiagopemo
+  santiago:
+    name: Santiago Peña
+    twitter_username: Santiag11470161
+    github_username: santiagopemo
 
-  name: Nathaly Sotomayor
-  twitter_username: nathsotomayor # DO NOT include the @ character, or else the build will fail!
-  github_username:  nathsotomayor # DO NOT include the @ character, or else the build will fail!
+  nathaly:
+    name: Nathaly Sotomayor
+    twitter_username: nathsotomayor # DO NOT include the @ character, or else the build will fail!
+    github_username:  nathsotomayor # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage

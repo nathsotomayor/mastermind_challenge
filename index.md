@@ -1,4 +1,4 @@
-
+# Welcome!
 # This is the Mastermind challenge site for the Holberton School Cali Campus
 
 ![mastermind_game](https://user-images.githubusercontent.com/28455356/93655929-41d07500-f9ec-11ea-97b2-649850ea268a.jpg)

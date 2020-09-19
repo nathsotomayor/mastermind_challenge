@@ -11,18 +11,12 @@ share-links-active:
   linkedin: true
 
 defaults:
-  -
-    scope:
-      path: "/_posts"
-      type: "posts"
-    values:
-      layout: "post"
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
+  social-share: true # add social media sharing buttons to all blog post
+  
+  scope:
+    path: "" # any file that's not a post will be a "page" layout by default
+  values:
+    layout: ""
 
 # Exclude these files from production site
 exclude:

@@ -1,6 +1,6 @@
 theme: minima
 title: Mastermind Challenge
-author: With :heart: by David Orejuela, Emma Navarro, Santiago Peña, Nathaly Sotomayor
+author: With by David Orejuela, Emma Navarro, Santiago Peña, Nathaly Sotomayor
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Here you found how to build a Mastermind game in a programming language.

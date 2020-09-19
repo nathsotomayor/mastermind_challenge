@@ -37,11 +37,11 @@ Go to the repository folder and execute `main.py`
   cmd/mastermind~$ ./main.py
   ```
   
-## :video_game: The Game
+## The Game
 
 ![set_size_game](https://user-images.githubusercontent.com/28455356/93660394-00ec5680-fa14-11ea-86d4-22af77145691.gif)
 
-### :scroll: Rules
+### Rules
 
 Your aim is to crack the code fast enough to get a high score and make it onto our Master Code Breakers list.
 
@@ -49,10 +49,10 @@ You get 8 attempts at breaking the code. If you can't discover it by then then y
 
 The Code Breaker code is made up of 4 to 6 colours from the 8 available colours. To win you must place the right marbles in the right order. After each attempt you will be told how you went.
 
-:white_circle: **White marble** - Means that there is one of your marbles in the code but not in the right place.
+**White marble** - Means that there is one of your marbles in the code but not in the right place.
 
-:black_circle: **Black marble** - Means that there is one of your marbles in the code and in the right place.
+**Black marble** - Means that there is one of your marbles in the code and in the right place.
 
 ![PlaywithFriends](https://user-images.githubusercontent.com/28455356/93660450-ac95a680-fa14-11ea-917d-006ccfb9440f.gif)
 
-#### Play and Have Fun! :space_invader:
+#### Play and Have Fun!

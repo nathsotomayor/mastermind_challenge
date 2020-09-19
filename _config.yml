@@ -6,20 +6,21 @@ description: > # this means to ignore newlines until "baseurl:"
   Here you found how to build a Mastermind game in a programming language.
   
 # social links
-author: David Orejuela
-twitter_username: DavidOrejuela14
-github_username: daorejuela1
+authors:
+  name: David Orejuela
+  twitter_username: DavidOrejuela14
+  github_username: daorejuela1
 
-author: Emma Navarro
-twitter_username: Ayy_Emma
-github_username: emmanavarro
+  name: Emma Navarro
+  twitter_username: Ayy_Emma
+  github_username: emmanavarro
 
-author: Santiago Peña
-twitter_username: Santiag11470161
-github_username: santiagopemo
+  name: Santiago Peña
+  twitter_username: Santiag11470161
+  github_username: santiagopemo
 
-author: Nathaly Sotomayor
-twitter_username: nathsotomayor # DO NOT include the @ character, or else the build will fail!
-github_username:  nathsotomayor # DO NOT include the @ character, or else the build will fail!
+  name: Nathaly Sotomayor
+  twitter_username: nathsotomayor # DO NOT include the @ character, or else the build will fail!
+  github_username:  nathsotomayor # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
